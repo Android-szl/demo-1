@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         initView();
         setVP();
-
+        System.out.println("sdfjsdlf");
     }
 
     public void setVP(){
