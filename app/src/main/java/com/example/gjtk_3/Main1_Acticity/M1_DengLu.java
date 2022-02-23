@@ -44,6 +44,7 @@ public class M1_DengLu extends AppCompatActivity {
                 String mm = mima.getText().toString().trim();
                 Log.d(TAG, "DengLu: wwwww");
                 DengLu2(zh, mm);
+                System.out.println("123");
             }
         });
 
