@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/head1" />
+    <LinearLayout
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:background="@drawable/touxiang"
+        />
+
+    <!--    <ImageView-->
+    <!--        android:id="@+id/iv_tx"-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:background="@drawable/touxiang" />-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_yhm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="用户名:大卫"
+            android:textColor="#666"
+            android:textSize="60px" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="50dp"
+            android:orientation="vertical">
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#7A7777" />
+            <TextView
+                android:layout_marginLeft="30dp"
+
+                android:id="@+id/grxx"
+                android:layout_width="match_parent"
+                android:layout_height="41dp"
+                android:layout_marginTop="10dp"
+                android:text="个人信息"
+                android:textColor="#888585"
+                android:textSize="20dp" />
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#7A7777" />
+
+            <TextView
+                android:layout_marginLeft="30dp"
+
+                android:id="@+id/xgyj"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_marginTop="10dp"
+                android:text="修改密码"
+                android:textColor="#888585"
+                android:textSize="20dp" />
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#7A7777" />
+
+            <TextView
+                android:layout_marginLeft="30dp"
+
+                android:id="@+id/yjfk"
+                android:layout_width="match_parent"
+                android:layout_height="53dp"
+                android:layout_marginTop="10dp"
+                android:onClick="dianji"
+                android:text="意见反馈"
+                android:textColor="#888585"
+                android:textSize="20dp" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="退出登录"
+                android:layout_margin="30dp"
+                android:id="@+id/button1"
+                android:background="@drawable/button"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

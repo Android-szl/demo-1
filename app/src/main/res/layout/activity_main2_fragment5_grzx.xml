@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Main2_Activity.Main2_Fragment5_GRZX">
+    <include layout="@layout/head1"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg_et"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:background="@drawable/bg_et"
+            android:layout_height="100dp">
+            <TextView
+                android:background="@drawable/bg_et"
+
+                android:text="用户名："
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"/>
+            <TextView
+                android:background="@drawable/bg_et"
+                android:text="大卫"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:background="@drawable/bg_et"
+            android:layout_height="100dp">
+            <TextView
+                android:background="@drawable/bg_et"
+
+                android:text="手机号码："
+                android:textColor="@color/black"
+                android:textSize="20dp"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"/>
+            <TextView
+                android:background="@drawable/bg_et"
+                android:text="12345678900"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:background="@drawable/bg_et"
+            android:layout_height="100dp">
+            <TextView
+                android:background="@drawable/bg_et"
+
+                android:text="注册时间："
+                android:textColor="@color/black"
+                android:textSize="20dp"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"/>
+            <TextView
+                android:background="@drawable/bg_et"
+                android:text="21—12—12 13:24“45"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:background="@drawable/bg_et"
+            android:layout_height="100dp">
+            <TextView
+                android:background="@drawable/bg_et"
+                android:text="性别:"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"/>
+            <TextView
+                android:background="@drawable/bg_et"
+                android:text="男"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:background="@drawable/bg_et"
+            android:layout_height="100dp">
+            <TextView
+                android:background="@drawable/bg_et"
+                android:text="出生日期:"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"/>
+            <TextView
+                android:background="@drawable/bg_et"
+                android:text="1999-12-01"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:background="@drawable/bg_et"
+            android:layout_height="100dp">
+            <TextView
+                android:background="@drawable/bg_et"
+                android:text="id_Card:"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"/>
+            <TextView
+                android:background="@drawable/bg_et"
+                android:onClick="id"
+                android:text="1231*********3213"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"/>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnm"
+            android:layout_width="300dp"
+            android:layout_height="61dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button"
+            android:text="退出登录"
+            android:textSize="20dp" />
+    </LinearLayout>
+</LinearLayout>

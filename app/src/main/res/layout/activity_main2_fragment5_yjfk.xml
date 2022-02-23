@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main2_Activity.Main2_Fragment5_YJFK">
+    <include layout="@layout/head1"/>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <EditText
+            android:id="@+id/biaoTi"
+            android:layout_marginTop="20sp"
+            android:layout_width="match_parent"
+            android:layout_height="50sp"
+            android:layout_gravity="center"
+            android:hint="标题"
+            />
+        <EditText
+            android:id="@+id/neiRong"
+            android:layout_width="match_parent"
+            android:hint="请输入您的意见"
+            android:layout_height="100sp"/>
+        <EditText
+            android:id="@+id/shouJi"
+            android:layout_marginTop="20sp"
+            android:layout_width="match_parent"
+            android:layout_height="50sp"
+            android:layout_gravity="center"
+            android:hint="手机"
+            android:maxLength="11"
+            android:numeric="integer"
+            />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:onClick="TiJiao"
+            android:text="提交"/>
+
+    </LinearLayout>
+
+</LinearLayout>

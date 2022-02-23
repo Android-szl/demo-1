@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GJTK_3/app/src/main/res/drawable-v24/shape.xml" value="0.32864583333333336" />
+        <entry key="..\:/GJTK_3/app/src/main/res/drawable-v24/underline.xml" value="0.22335526315789472" />
+        <entry key="..\:/GJTK_3/app/src/main/res/drawable/bg_bt.xml" value="0.20559210526315788" />
+        <entry key="..\:/GJTK_3/app/src/main/res/drawable/bg_et.xml" value="0.22335526315789472" />
+        <entry key="..\:/GJTK_3/app/src/main/res/drawable/bg_list.xml" value="0.22335526315789472" />
+        <entry key="..\:/GJTK_3/app/src/main/res/drawable/button.xml" value="0.22335526315789472" />
+        <entry key="..\:/GJTK_3/app/src/main/res/drawable/button_yuaniao.xml" value="0.22335526315789472" />
+        <entry key="..\:/GJTK_3/app/src/main/res/layout/activity_bus_stop.xml" value="0.22" />
+        <entry key="..\:/GJTK_3/app/src/main/res/layout/activity_ce_shi_jm.xml" value="0.11" />
+        <entry key="..\:/GJTK_3/app/src/main/res/layout/activity_fragment2.xml" value="0.2" />
+        <entry key="..\:/GJTK_3/app/src/main/res/layout/activity_m1_deng_lu.xml" value="0.21052631578947367" />
+        <entry key="..\:/GJTK_3/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/GJTK_3/app/src/main/res/layout/activity_main2.xml" value="0.21052631578947367" />
+        <entry key="..\:/GJTK_3/app/src/main/res/layout/activity_main2_fragment5_grzx.xml" value="0.21052631578947367" />
+        <entry key="..\:/GJTK_3/app/src/main/res/layout/activity_main2_fragment5_yjfk.xml" value="0.21052631578947367" />
+        <entry key="..\:/GJTK_3/app/src/main/res/layout/activity_new_detail.xml" value="0.16282894736842105" />
+        <entry key="..\:/GJTK_3/app/src/main/res/layout/activity_xiu_gai_mi_ma.xml" value="0.21052631578947367" />
+        <entry key="..\:/GJTK_3/app/src/main/res/layout/activity_zhi_hui_bs.xml" value="0.16578947368421051" />
+        <entry key="..\:/GJTK_3/app/src/main/res/layout/busstop.xml" value="0.21052631578947367" />
+        <entry key="..\:/GJTK_3/app/src/main/res/layout/head1.xml" value="0.21052631578947367" />
+        <entry key="..\:/GJTK_3/app/src/main/res/layout/jm1_fragment1.xml" value="0.3333333333333333" />
+        <entry key="..\:/GJTK_3/app/src/main/res/layout/lay_fl.xml" value="0.21052631578947367" />
+        <entry key="..\:/GJTK_3/app/src/main/res/layout/lay_grid.xml" value="0.1457236842105263" />
+        <entry key="..\:/GJTK_3/app/src/main/res/layout/listview.xml" value="0.16578947368421051" />
+        <entry key="..\:/GJTK_3/app/src/main/res/layout/main2_fragment2.xml" value="0.21052631578947367" />
+        <entry key="..\:/GJTK_3/app/src/main/res/layout/main2_fragment3.xml" value="0.21052631578947367" />
+        <entry key="..\:/GJTK_3/app/src/main/res/layout/main2_fragment4.xml" value="0.21052631578947367" />
+        <entry key="..\:/GJTK_3/app/src/main/res/layout/main2_fragment5.xml" value="0.21052631578947367" />
+        <entry key="..\:/GJTK_3/app/src/main/res/layout/mian2_fragment1.xml" value="0.21052631578947367" />
+        <entry key="..\:/GJTK_3/app/src/main/res/layout/xw_item.xml" value="0.16282894736842105" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.21052631578947367" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
